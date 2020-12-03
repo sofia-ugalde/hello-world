@@ -1,4 +1,4 @@
 # hello-world
 Just another repository
 
-cout<<"Hello World"<<endl
+cout<<"Hello World"<<endl;
